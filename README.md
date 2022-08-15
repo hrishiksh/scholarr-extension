@@ -1,5 +1,7 @@
 # Scholarr Extension
 
+![Logo](./images/scholarr128.png)
+
 A google chrome extension to make life of a scholar easier.
 
 ![Demo image](./assets/scholarr.webp)
